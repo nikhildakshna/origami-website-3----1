@@ -1,0 +1,58 @@
+body{
+font-family: cursive;
+font-style:italic;
+
+}
+
+h1 {
+ 
+ color: #8a2be2;
+}
+
+* {
+   border: solid;
+}
+
+h2 {
+ color:tomato;
+}
+
+h3 {
+ color:teal;
+}
+
+.header {
+display: flex;
+background-color: black;
+border-color: white;
+
+}
+
+.menu {
+background-color: black;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+border-color: white;
+}
+
+.origami {
+display: flex;
+background-color: lightslategray;
+border-color: white;
+}
+
+.footer {
+display: flex;
+background-color: black;
+border-color: white;
+}
+
+.info {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color: black;
+color: white
+
+}
